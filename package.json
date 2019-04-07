@@ -1,0 +1,12 @@
+{
+  "name": "react-native-custom-theming",
+  "version": "0.0.1",
+  "description": "The easy way build theme in react native.",
+  "main": "index.js",
+  "repository": "https://github.com/kudane/react-native-custom-theming.git",
+  "author": "Kudane <kraisorn204@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.6"
+  }
+}
