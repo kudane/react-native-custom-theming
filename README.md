@@ -149,6 +149,14 @@ export default SectionOne;
 
 ---
 
+## Demo
+
+![](https://github.com/kudane/react-native-custom-theming/blob/master/example/screen%20demo.gif)
+
+
+---
+
+
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
